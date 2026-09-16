@@ -66,6 +66,8 @@ Download the [Cedalion GitHub repository](https://github.com/ibs-lab/cedalion)
 
 ~~~
 git clone https://github.com/ibs-lab/cedalion.git
+cd cedalion
+git checkout dev
 ~~~
 
 .. or just switch branch from `main`to `dev` -> press `Code` -> `Download Zip` and unzip it in this folder.
