@@ -2,7 +2,9 @@
 Anatomical registration and analysis pipeline for NEMES 2026.
 
 This tutorial will go though:
-- TODO: Summary of steps here..
+- Forward modelling of software-defined montage
+- Photogrammetric optode co-registration
+- Forward modelling of registered montage
 
 ## Preparing Python
 

@@ -3,3 +3,6 @@ venv
 .venv
 cedalion
 tutorial/.ipynb_checkpoints
+tutorial/*.log
+tutorial/temp*
+data
