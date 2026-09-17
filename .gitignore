@@ -5,4 +5,7 @@ cedalion
 tutorial/.ipynb_checkpoints
 tutorial/*.log
 tutorial/temp*
-data
+data/forward_model
+data/forward_model
+data/forward_model_registered
+data/workshop_data

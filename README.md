@@ -5,6 +5,7 @@ This tutorial will go though:
 - Forward modelling of software-defined montage
 - Photogrammetric optode co-registration
 - Forward modelling of registered montage
+- Analysis and visualization on cortical surface with Brodmann labels
 
 ## Preparing Python
 
